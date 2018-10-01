@@ -1,1 +1,1 @@
-# https-github.com-learn-co-curriculum-dsc-1-08-17-section-recap-summary
+# dsc-1-08-17-section-recap-summary
