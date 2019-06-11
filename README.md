@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This short lesson summarizes key takeaways from section 32
+This short lesson summarizes key takeaways from section 35
 
 ## Objectives
 You will be able to:
