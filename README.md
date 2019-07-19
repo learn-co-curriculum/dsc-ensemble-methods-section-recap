@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This short lesson summarizes key takeaways from section 35
+In this section, you learned about ensemble methods. This lesson will summarize the key takeaways from this section.
 
 ## Objectives
 You will be able to:
@@ -24,7 +24,7 @@ The key takeaways from this section include:
 * In addition, the Subspace Sampling Method is used to further increase variability by randomly selecting the subset of features to use as predictors for training any given tree
 * GridsearchCV is an exhaustive search technique for finding optimal combinations of hyper parameters by calculating for every combination of parameter values you put into the search
 * Gradient boosting leverages an ensemble of weak learners (weak models) to create a strong combined model
-* Boosting (when compared to random forests) is an interative rather than independent process, using each model to strengthen the weaknesses of the previous ones
+* Boosting (when compared to random forests) is an iterative rather than independent process, using each model to strengthen the weaknesses of the previous ones
 * Two of the most common algorithms for Boosting are Adaboost (Adaptive Boosting) and Gradient Boosted Trees
 * Adaboost creates new classifiers by continually influencing the distribution of the data sampled to train each successive tree
 * Gradient Boosted Trees are a more advanced boosting algorithm that makes use of Gradient Descent
