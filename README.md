@@ -4,6 +4,7 @@
 ## Key Takeaways
 
 The key takeaways from this section include:
+
 * Multiple independent estimates are consistently more accurate than any single estimate, so ensemble techniques are a powerful way for improving the quality of your models
 * Sometimes you'll use model stacking or meta-ensembles where you use a combination of different types of models for your ensemble
 * It's also common to have multiple similar models in an ensemble - e.g. a bunch of decision trees
